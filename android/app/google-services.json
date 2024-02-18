@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282711046462",
+    "project_id": "signapp-pro",
+    "storage_bucket": "signapp-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282711046462:android:25bb13b712752d0cd4d46f",
+        "android_client_info": {
+          "package_name": "com.example.signapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-a2mmkGVvYCSkn87XUQ5r1G_ZGrMYoxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
