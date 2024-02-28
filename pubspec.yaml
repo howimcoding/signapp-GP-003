@@ -40,6 +40,8 @@ dependencies:
   flutter_tts: ^3.8.5
   camera:
   tflite:
+  speech_to_text: ^6.6.0
+  avatar_glow:
 
 dev_dependencies:
   flutter_test:
